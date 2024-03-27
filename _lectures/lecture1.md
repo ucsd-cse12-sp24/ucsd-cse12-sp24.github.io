@@ -2,7 +2,7 @@
 layout: with-sidebar
 index: 1
 name: Introduction
-released-on: "2023-09-29"
+released-on: "2024-04-01"
 videos:
     - title: "Welcome"
       url: https://drive.google.com/file/d/1OQW-Gji89qB8WPkicO2kgzQBzyUauC7F
@@ -49,7 +49,7 @@ Videos (to watch **after** lecture):
 
 ## Notes & Files from Pre-Lecture Videos
 
-[Pre-Lecture 1](https://github.com/ucsd-cse12-f23/ucsd-cse12-f23.github.io/tree/main/_pre-lectures/lecture-01){:target="_blank"}
+[Pre-Lecture 1](https://github.com/ucsd-cse12-sp24/ucsd-cse12-sp24.github.io/tree/main/_pre-lectures/lecture-01){:target="_blank"}
 
 ## Handout
 
@@ -57,4 +57,4 @@ Videos (to watch **after** lecture):
 
 ## Notes & Files from Lecture 
 
-[Lecture Notes](https://github.com/ucsd-cse12-f23/ucsd-cse12-f23.github.io/tree/main/_lectures/lecture-01){:target="_blank"}
+[Lecture Notes](https://github.com/ucsd-cse12-sp24/ucsd-cse12-sp24.github.io/tree/main/_lectures/lecture-01){:target="_blank"}
