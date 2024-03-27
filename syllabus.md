@@ -119,7 +119,7 @@ on each assignment instead of waiting until the last minute to start.
 
 It's the student's responsibilty to check that the autograder worked and that all files
 have been properly uploaded (by checking the Code tab). We only accept PAs through
-Gradescope before the 24-hour extension hard deadline. We will not accept any files 
+Gradescope before the 24-hour extension deadline. We will not accept any files 
 through email, Canvas, or Piazza.
 
 Please note that all deadlines for PAs are at 8am.
@@ -221,7 +221,7 @@ There are two types of assignments in this course, **open** and **closed**:
     students outside of this offering of the class. All the code that is
     handed in should be developed by you or someone in the class.
   - Using Copilot or ChatGPT is not forbidden, but highly discouraged. These are
-    great tools for experience programmers, but not very good for learning the
+    great tools for experienced programmers, but not very good for learning the
     material we are trying to teach in this course.
   - You are responsible for _understanding_ all the code you have written.
     All of the programming problems on the PAs may show up on exams, where
