@@ -13,12 +13,12 @@ Quick links:
 - [Course FAQs (includes waitlist FAQs)](#faq)
 - Piazza Message Board: [https://piazza.com/ucsd/fall2023/cse12_fa23_a00/home](https://piazza.com/ucsd/fall2023/cse12_fa23_a00/home){:target="_blank"}
 - Lab queue (autograder) for in person help: [https://autograder.ucsd.edu](https://autograder.ucsd.edu){:target="_blank"}
-- Tutoring Procedurs: [https://docs.google.com/document/d/16L0N2ASrPRID6di404vrbs3I_xkavs_7UG0G5CcGDuQ/edit?usp=sharing](https://docs.google.com/document/d/16L0N2ASrPRID6di404vrbs3I_xkavs_7UG0G5CcGDuQ/edit?usp=sharing){:target="_blank"}
+- Tutoring Procedurs: [https://docs.google.com/document/d/1mnOIYC6XQ6J0OWPsuMIWT5I6KG6Zy_I6n_0oqxIA9rs/edit?usp=sharing](https://docs.google.com/document/d/1mnOIYC6XQ6J0OWPsuMIWT5I6KG6Zy_I6n_0oqxIA9rs/edit?usp=sharing){:target="_blank"}
 - Map link for CSE building lab entrance: [https://goo.gl/maps/Zps77SRmNapKfkbC9](https://goo.gl/maps/Zps77SRmNapKfkbC9){:target="_blank"}
   - You have permission to use _any_ lab, but prefer to use the B240 lab if space is available, that's where our staff will be based
 - Greg Miranda
   - Email: `g2miranda@eng.ucsd.edu`
-  - **Office hours**: Tuesday 9:00am-10:00am (remote), Friday 12:30pm-1:30pm, CSE 4204
+  - **Office hours**: Monday and Friday 11am-12pm, CSE 4204
 
 Do NOT use the Canvas mailing feature to contact us. We will NOT respond to those
 messages. If you need to send a private message to the instructor, you can use his ucsd email
