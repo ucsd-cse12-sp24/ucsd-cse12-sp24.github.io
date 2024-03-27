@@ -13,9 +13,9 @@ Quick links:
 - [Course FAQs (includes waitlist FAQs)](#faq)
 - Piazza Message Board: [https://piazza.com/ucsd/spring2024/cse12_sp24_b00/home](https://piazza.com/ucsd/spring2024/cse12_sp24_b00/home){:target="_blank"}
 - Lab queue (autograder) for in person help: [https://autograder.ucsd.edu](https://autograder.ucsd.edu){:target="_blank"}
-- Tutoring Procedurs: [https://docs.google.com/document/d/1mnOIYC6XQ6J0OWPsuMIWT5I6KG6Zy_I6n_0oqxIA9rs/edit?usp=sharing](https://docs.google.com/document/d/1mnOIYC6XQ6J0OWPsuMIWT5I6KG6Zy_I6n_0oqxIA9rs/edit?usp=sharing){:target="_blank"}
+- Tutoring Procedures: [https://docs.google.com/document/d/1mnOIYC6XQ6J0OWPsuMIWT5I6KG6Zy_I6n_0oqxIA9rs/edit?usp=sharing](https://docs.google.com/document/d/1mnOIYC6XQ6J0OWPsuMIWT5I6KG6Zy_I6n_0oqxIA9rs/edit?usp=sharing){:target="_blank"}
 - Map link for CSE building lab entrance: [https://goo.gl/maps/Zps77SRmNapKfkbC9](https://goo.gl/maps/Zps77SRmNapKfkbC9){:target="_blank"}
-  - You have permission to use _any_ lab, but prefer to use the B240 lab if space is available, that's where our staff will be based
+  - You have permission to use _any_ lab, but prefer to use the B260 lab if space is available, that's where our staff will be based
 - Greg Miranda
   - Email: `g2miranda@eng.ucsd.edu`
   - **Office hours**: Monday and Friday 11am-12pm, CSE 4204
