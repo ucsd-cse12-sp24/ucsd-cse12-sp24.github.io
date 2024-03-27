@@ -35,7 +35,7 @@ Then follow the steps in the tutoring procedures document for submitting a ticke
 
 ### In-person Help
 
-For in-person help, come to our lab room B240, which is on the lowest level of the CSE building. If there are no seats in B240, feel free to use another lab on the bottom (basement) floor of the CSE building.
+For in-person help, come to our lab room B260, which is on the lowest level of the CSE building. If there are no seats in B260, feel free to use another lab on the bottom (basement) floor of the CSE building.
 
 Then follow the steps in the tutoring procedures document for submitting a ticket.
 
