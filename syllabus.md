@@ -215,7 +215,9 @@ There are two types of assignments in this course, **open** and **closed**:
     from StackOverflow or blogs online), or get assistance or code from
     students outside of this offering of the class. All the code that is
     handed in should be developed by you or someone in the class.
-  - Using Copilot or ChatGPT is not forbidden, but highly discouraged.
+  - Using Copilot or ChatGPT is not forbidden, but highly discouraged. These are
+    great tools for experience programmers, but not very good for learning the
+    material we are trying to teach in this course.
   - You are responsible for _understanding_ all the code you have written.
     All of the programming problems on the PAs may show up on exams, where
     you will need to have a thorough understanding of the PA to answer the
