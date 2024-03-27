@@ -110,6 +110,15 @@ The Stepik online texbook records your progress, and we give a schedule of expec
 Most weeks there will be a programming assignment. Direct practice with
 programming will make up the majority of your work in the course.
 
+There is an automatic 24-hour extension to submit the PA in Gradescope (in case of internet/technical issues, illness, AFA accomdations, etc.). Just submit your assignment after the deadline (but before 24 hours after the deadline) to automatically use the extension. There is no penalty for using the 24-hour extension. 
+
+It's the student's responsibilty to check that the autograder worked and that all files
+have been properly uploaded (by checking the Code tab). We only accept PAs through
+Gradescope before the slip-day deadline. We will not accept any files through email, Canvas, or
+Piazza.
+
+Please note that all deadlines for PAs are at 8am.
+
 <h4>Grading</h4>
 
 Programming assignments are graded in two ways:
@@ -144,15 +153,6 @@ before the original deadline.
 
 For those assignments near the end of the quarter, the deadline for all late/resubmissions 
 will be Friday of Week 10 at 8am. After the automatic 24-hour extenstion, we will not accept any submissions after that time, for any reason.
-
-There is an automatic 24-hour extension to submit the PA in Gradescope (in case of internet/technical issues, illness, AFA accomdations, etc.). Just submit your assignment after the deadline (but before 24 hours after the deadline) to automatically use the extension. There is no penalty for using the 24-hour extension. 
-
-It's the student's responsibilty to check that the autograder worked and that all files
-have been properly uploaded (by checking the Code tab). We only accept PAs through
-Gradescope before the slip-day deadline. We will not accept any files through email, Canvas, or
-Piazza.
-
-Please note that all deadlines for PAs are at 8am.
 
 <a id="p:open-closed"></a>
 <h3>Collaboration</h3>
