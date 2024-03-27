@@ -82,15 +82,15 @@ You can find the recordings in the Canvas Media Gallery or at [podcast.ucsd.edu]
 Starting with the second lecture, we will take attendance during lecture (except exams) and for each discussion session.
 
 Attendance for lectures and discussions is not required, but attendance at each lecture/discussion earns
-0.4% extra credit, up to a maximum of 10% (25 total lectures and/or discussions).
+0.4% extra credit, up to a maximum of 10% (25 total lectures and/or discussions). Please note that there are 25 lectures and 10 discussions, for 35 oppotortunities to earn extra credit. 
 
 In each lecture/discussion, we’ll have a paper handout (also available electronically). 
 At the end of lecture/discussion you’ll have a chance submit your handout to Gradescope. 
 You can do this by scanning it in the Gradescope app (for iOS and Android) 
 or through the web interface. To get participation credit, you 
-have to submit a handout filled in with the key provided by the instructor/TA.
+have to submit a handout filled in with the code provided by the instructor/TA.
 
-The correct key for the lecture/discussion (given by the instructor or TA) 
+The correct code for the lecture/discussion (given by the instructor or TA) 
 must be used or credit will not be given for attending. Handouts will be 
 graded for participation only and not for correctness of the response.
 
