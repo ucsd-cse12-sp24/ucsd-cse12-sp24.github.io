@@ -2,7 +2,7 @@
 layout: with-sidebar
 title: "UCSD CSE12 – Basic Data Structures and Object-Oriented Design"
 ---
-# UCSD CSE 12 Spring 2023
+# UCSD CSE 12 Fall 2023
 
 ## Meeting with Staff
 
@@ -20,7 +20,7 @@ that you may meet with tutors and TAs to receive help. Office hours to meet with
 are a different option, and are explained later on this page. 
 
 The process for getting help can be found in the
-[Tutoring Procedurs](https://docs.google.com/document/d/1pVPE2OyU9atRsfIN221EnR9vE3qTgJrlPJ7J6vdXfY4/edit?usp=sharing){:target="_blank"} document.
+[Tutoring Procedurs](https://docs.google.com/document/d/16L0N2ASrPRID6di404vrbs3I_xkavs_7UG0G5CcGDuQ/edit?usp=sharing){:target="_blank"} document.
 
 Once you've submitted a ticket, a staff member will accept your ticket when available. You will get 
 updates in autograder about your ticket once you file it.
@@ -31,7 +31,7 @@ You can get remote help from anywhere as long as you have a stable internet conn
 
 Then follow the steps in the tutoring procedures document for submitting a ticket.
 
-<iframe src="https://calendar.google.com/calendar/embed?src=c_63085ff4ec7102375ab5e8f5412a7859bb1e119f3fe3cb06327616c83c4a4cc0%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=c_9c571272f9c47629fffb64f2665c8aed40a9943972f691eddfab6166786f1cdc%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ### In-person Help
 
@@ -43,7 +43,7 @@ Then follow the steps in the tutoring procedures document for submitting a ticke
 Check on this calendar for our *in-person* availability (also available on the general calendar
 page):
 
-<iframe src="https://calendar.google.com/calendar/embed?src=c_49310e531a598365bcad10ea69a0cc9aa47dbf69f9d3601a4e0996c8e69cca1c%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>>
+<iframe src="https://calendar.google.com/calendar/embed?src=c_3d8235306a63f08141e5ff7475e854ce68d12bdaa51616da3c55d57752b4a2a4%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 #### More information on finding the in-person labs:
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13402.475705970317!2d-117.2335235!3d32.8818006!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xa7dc3be7597d4d47!2sComputer%20Science%20and%20Engineering%20Building!5e0!3m2!1sen!2sus!4v1632176178912!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
@@ -68,11 +68,11 @@ help hours with the tutors.
 
 Instructors for this course:
 - Greg Miranda
-  - Email: `g2miranda@eng.ucsd.edu`
-  - **Office hours**: Wednesday 10:00am-11:00am, Friday 10:00am-11:00am, CSE 4204
+  - Email: `g2miranda@ucsd.edu`
+  - **Office hours**: Tuesday 9:00am-10:00am (remote), Friday 12:30pm-1:30pm, CSE 4204
 
 ### Our Staff
-The friendly faces of this course! We have 17 staff members (instructors, TAs, and tutors) here 
+The friendly faces of this course! We have 14 staff members (instructors, TAs, and tutors) here 
 to support you and help with your learning.
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQvPXbeLtlY5oZLcwWtAlWO4Nlvys4l9FHNULdvLh6QkK5gvdiqN4arrVz8ug4MzsbedRsNFg12homZ/pubhtml?widget=true&amp;headers=false" width="100%" height="950px"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRd1yZs9E5hFeE1yVnaVh6mVEXF86Huw-T7QtoLgPDSym0Ltw5-vY_4hW2_KzhOsO-LnPRqQ2RRcEzx/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="700px"></iframe>
