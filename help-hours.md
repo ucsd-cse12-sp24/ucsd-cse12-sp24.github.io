@@ -20,7 +20,7 @@ that you may meet with tutors and TAs to receive help. Office hours to meet with
 are a different option, and are explained later on this page. 
 
 The process for getting help can be found in the
-[Tutoring Procedurs](https://docs.google.com/document/d/16L0N2ASrPRID6di404vrbs3I_xkavs_7UG0G5CcGDuQ/edit?usp=sharing){:target="_blank"} document.
+[Tutoring Procedurs](https://docs.google.com/document/d/1mnOIYC6XQ6J0OWPsuMIWT5I6KG6Zy_I6n_0oqxIA9rs/edit?usp=sharing){:target="_blank"} document.
 
 Once you've submitted a ticket, a staff member will accept your ticket when available. You will get 
 updates in autograder about your ticket once you file it.
@@ -35,8 +35,7 @@ Then follow the steps in the tutoring procedures document for submitting a ticke
 
 ### In-person Help
 
-For in-person help, come to our lab room B240, which is on the lowest level of the CSE building. If there are no seats
-in B240, feel free to use another lab on the bottom (basement) floor of the CSE building.
+For in-person help, come to our lab room B240, which is on the lowest level of the CSE building. If there are no seats in B240, feel free to use another lab on the bottom (basement) floor of the CSE building.
 
 Then follow the steps in the tutoring procedures document for submitting a ticket.
 
@@ -69,7 +68,7 @@ help hours with the tutors.
 Instructors for this course:
 - Greg Miranda
   - Email: `g2miranda@ucsd.edu`
-  - **Office hours**: Tuesday 9:00am-10:00am (remote), Friday 12:30pm-1:30pm, CSE 4204
+  - **Office hours**: Monday and Friday 11am-12pm, CSE 4204
 
 ### Our Staff
 The friendly faces of this course! We have 14 staff members (instructors, TAs, and tutors) here 
