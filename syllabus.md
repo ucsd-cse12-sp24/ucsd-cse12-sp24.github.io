@@ -119,8 +119,8 @@ on each assignment instead of waiting until the last minute to start.
 
 It's the student's responsibilty to check that the autograder worked and that all files
 have been properly uploaded (by checking the Code tab). We only accept PAs through
-Gradescope before the slip-day deadline. We will not accept any files through email, Canvas, or
-Piazza.
+Gradescope before the 24-hour extension hard deadline. We will not accept any files 
+through email, Canvas, or Piazza.
 
 Please note that all deadlines for PAs are at 8am.
 
