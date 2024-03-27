@@ -2,7 +2,7 @@
 layout: with-sidebar
 title: "UCSD CSE12 – Basic Data Structures and Object-Oriented Design"
 ---
-# UCSD CSE 12 Fall 2023
+# UCSD CSE 12 Spring 2024
 ## Asking Questions and Getting Help
 
 There are 14 staff members (instructor, TAs, and tutors) to help with your

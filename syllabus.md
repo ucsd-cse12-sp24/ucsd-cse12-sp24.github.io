@@ -1,10 +1,10 @@
 ---
 layout: with-sidebar
-title: "Syllabus – UCSD CSE12 Fall 23"
+title: "Syllabus – UCSD CSE12 Spring 2024"
 doodle: "/doodle.png"
 ---
 
-# UCSD CSE 12 Fall 2023
+# UCSD CSE 12 Spring 2024
 ## Basic Data Structures and Object-Oriented Design
 
 _Greg Miranda_
@@ -33,9 +33,9 @@ and discuss more efficient strategies in office hours.
 
 There are a few components to your grade in the course:
 
-- Course engagement activities (10%)
-- Programming assignments (30%)
+- Programming assignments (40%)
 - Exams (60%)
+- Extra Credit: 10% Lecture/Discussion Participation
 
 Letter grades will be assigned based on the following grading scale:
 
@@ -70,46 +70,57 @@ annoucements. Not all annoucements are made on Piazza.
 
 <h3>Discussion</h3>
 
-**In-person discussion** will reinforce concepts from class and introduce concepts that 
-are especially helpful for completing programming assignments. Discussions are also an
-opporunity to ask questions about the assignments as well as the course material. 
-They will be recorded. Attendance is encouraged but optional.
+**In-person discussion** will reinforce concepts from class and pracice exam questions. 
+Discussions are also an opporunity to ask questions about the assignments as well as 
+the course material. They will be recorded. Attendance is encouraged but optional.
 
 Discussions will also be recorded by podcasting but will not be available remotely while they are ongoing. 
 You can find the recordings in the Canvas Media Gallery or at [podcast.ucsd.edu](https://podcast.ucsd.edu){:target="_blank"}
 
-### Course Engagement
+<h3>Lecture/Discussion Participation (Extra Credit)</h3>
 
-We highly recommend actively participating in class, attending discussion, and completing the weekly review quizzes. Regularly engaging with the class in these ways counts towards the Engagement component of your overall score.
+Starting with the second lecture, we will take attendance during lecture (except exams) and for each discussion session.
 
-This score is calculated on a weekly basis (starting in Week 1). The maximum number of points you can earn in one week is 6. The lowest weekly participation score will be dropped when calculating your overall engagement average.
+Attendance for lectures and discussions is not required, but attendance at each lecture/discussion earns
+0.4% extra credit, up to a maximum of 10% (25 total lectures and/or discussions).
 
-Earn engagement points by:
-- **In class participation via worksheets** In Weeks 1 through 10 (starting with the second lecture of the quarter), you will earn credit for attending and participating in lecture (3 points each) and discussion section (2 points). Worksheets will be graded for participation only and not for correctness of the response. 
+In each lecture/discussion, we’ll have a paper handout (also available electronically). 
+At the end of lecture/discussion you’ll have a chance submit your handout to Gradescope. 
+You can do this by scanning it in the Gradescope app (for iOS and Android) 
+or through the web interface. To get participation credit, you 
+have to submit a handout filled in with the key provided by the instructor/TA.
 
-    To receive credit for attending lectures and discussion, you must make sure to check-in (check-ins will happen at random times in the middle of the lecture/discussion). The correct code for the lecture/discussion (given by the instructor/TA during lecture/discussion) must be used or credit will not be given for attending.
+The correct key for the lecture/discussion (given by the instructor or TA) 
+must be used or credit will not be given for attending. Handouts will be 
+graded for participation only and not for correctness of the response.
 
-    Attendance check-ins will be handled through Gradescope therefore it’s highly recommended to download the Gradescope mobile app to your phone so you can upload your worksheets. Otherwise, you will need to hand-in your worksheets to the instructor/TA after lecture/discussion and come to office hours to get them back. 
-    
-    If the file has not uploaded by the end of lecture/discussion, hand-in the worksheet before you or the instructor/TA leaves the room. We will not accept any worksheets once Gradescope closes (10 minutes after the lecture is scheduled to end) and the instructor/TA leaves the room and credit for attendance will not be given retroactively. 
-
-- **Weekly Review quiz** Online quizzes review the week’s material and preview some upcoming examples each week. You can submit your answers to each quiz as many times as you like. The latest submission before 8am on Monday will count towards your engagement score. Each weekly review quiz will be worth 6 points. The review quiz must be completed independently and individually. You may refer to your class notes and resources linked from this website, but not to other references. You may not share information about the review quiz with others, take the review quiz in someone else’s name, or ask anyone for prior knowledge about the review quiz.
-
-We encourage you to find your preferred method for staying engaged with the course. There are lots of ways to earn full credit for a week’s engagement. For example: (1) attending all lectures; or (2) answering all questions on the review quiz correctly; or (3) attending one lecture, discussion section, and getting one answer correct on the review quiz; etc.
+We will not accept any check-ins after lecture and credit for attendance 
+will not be given retroactively.
 
 ### Stepik Exercises (Textbook)
 
 Along with each lecture will come some optional pre-lecture work from our 
 [Stepik textbook](https://stepik.org/course/109917/syllabus){:target="_blank"}.
 
-The Stepik online texbook records your progress, and we give a schedule of expected times to finish the readings 
-(i.e. they should be completed before the lecture in which they are assigned). There is no penalty for completing these late as they will not be graded, but they are assigned so that you will be prepared to participate in problem solving session and so that you know the expected pace of the course.
+The Stepik online texbook records your progress, and we give a schedule of expected times to finish the readings (i.e. they should be completed before the lecture in which they are assigned). There is no penalty for completing these late as they will not be graded, but they are assigned so that you will be prepared to participate in problem solving session and so that you know the expected pace of the course.
 
 <a id="p:programming"></a>
 <h3>Programming Assignments (PAs)</h3>
 
 Most weeks there will be a programming assignment. Direct practice with
 programming will make up the majority of your work in the course.
+
+<h4>Grading</h4>
+
+Programming assignments are graded in two ways:
+
+- Most of the PA grading is through **Gradescope's autograder** which checks that your code follows the write-up's specifications. The autograded grade is displayed each time something is submitted to Gradescope. We will not manually grade code that is autograded so make sure to check Gradescope autograder output to ensure that it compiles and passes all requirements.
+
+- Some parts of PAs are **manually graded** by the course staff. Usually manually graded code is used to visually check code that cannot be autograded. 
+
+Not all PAs have manually graded parts, in which case your final score will be the autograded score displayed in Gradescope.
+
+<h4>Feedback</h4>
 
 There are several opportunities to get feedback on your work and improve:
 
@@ -132,17 +143,16 @@ You will also receive earlier feedback and an extra grading attempt if you submi
 before the original deadline.
 
 For those assignments near the end of the quarter, the deadline for all late/resubmissions 
-will be Friday of Week 10 at 8am. We will not accept any submissions after that time, for any reason.
+will be Friday of Week 10 at 8am. After the automatic 24-hour extenstion, we will not accept any submissions after that time, for any reason.
 
-Each student gets a free “slip day” for each programming assignment (PA) that allow an automatic 24-hour 
-extension to submit the PA. You do not have to ask to use your slip day. Just submit your 
-assignment after the deadline (but before 24 hours after the deadline) to automatically use your 
-slip day. There is no penalty for using this free slip day. 
+There is an automatic 24-hour extension to submit the PA in Gradescope (in case of internet/technical issues, illness, AFA accomdations, etc.). Just submit your assignment after the deadline (but before 24 hours after the deadline) to automatically use the extension. There is no penalty for using the 24-hour extension. 
 
 It's the student's responsibilty to check that the autograder worked and that all files
 have been properly uploaded (by checking the Code tab). We only accept PAs through
 Gradescope before the slip-day deadline. We will not accept any files through email, Canvas, or
 Piazza.
+
+Please note that all deadlines for PAs are at 8am.
 
 <a id="p:open-closed"></a>
 <h3>Collaboration</h3>
@@ -260,12 +270,12 @@ the link to the folder.
 <h3>Exams</h3>
 
 There will be three in-class exams during the quarter, held during the scheduled lecture time:
-- Week 4 - Wednesday 10/25/2023
-- Week 7 - Wednesday 11/15/2023
-- Week 10 - Wednesday 12/6/2023
+- Week 4 - Wednesday 4/24/2024
+- Week 7 - Wednesday 5/15/2024
+- Week 10 - Wednesday 6/5/2024
 
 The final exam will be:
-- Week 11 - Monday 12/11/2023, 8am - 11am, room will be announced in Week 10.
+- Week 11 - Monday 6/10/2024, 8am - 11am, room will be announced in Week 10.
 
 Seats will be assigned for all exam sessions and announced beforehand, and you must bring your school ID to the exam. All work on exams is to be done on your own, and you are not allowed to use any electronics or study aids during the exam (aside from those needed for University-approved academic accommodations). You may not speak to any other student in the exam room while the exam is in progress (including after you hand in your own exam). You may not share any information about the exam with any student who has not yet taken it (including students in future quarters of CSE12).
 
@@ -277,6 +287,10 @@ For example:
 - On the three in-class exams you score 75, 55, and 60. On the final you score 95, 90, 94. Your exam scores are 95, 90, 94, giving you an exam grade of 55.8% (19% + 18% + 18.8%).
 
 This policy also covers what happens if you miss an in-class exam for any reason. If you are absent for an in-class exam, you get a 0, and then whatever score you get on the final exam for that section will be applied to your exam grade. There are no make-up in-class exams, and the final exam policy is governed by the [university’s policies](https://senate.ucsd.edu/operating-procedures/educational-policies/courses/epc-policies-on-courses/policy-exams-including-midterms-final-exams-and-religious-accommodations-for-exams/){:target="_blank"}.
+
+The final exam will be in person and paper based. No makeup exams will be conducted! 
+No incompletes will be given. If you are unable to take the final exam at the scheduled time, please plan 
+on taking the course in a different quarter.
 
 <a id="policies"></a>
 ## Policies
