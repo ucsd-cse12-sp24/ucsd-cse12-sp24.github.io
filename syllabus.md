@@ -72,7 +72,7 @@ of each lecture to see any annoucements. Not all annoucements are made on Piazza
 
 **In-person discussion** will reinforce concepts from class and pracice exam questions. 
 Discussions are also an opporunity to ask questions about the assignments as well as 
-the course material. They will be recorded. Attendance is encouraged but optional.
+the course material. 
 
 Discussions will also be recorded by podcasting but will not be available remotely while they are ongoing. 
 You can find the recordings in the Canvas Media Gallery or at [podcast.ucsd.edu](https://podcast.ucsd.edu){:target="_blank"}
