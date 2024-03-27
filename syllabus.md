@@ -112,6 +112,11 @@ programming will make up the majority of your work in the course.
 
 There is an automatic 24-hour extension to submit the PA in Gradescope (in case of internet/technical issues, illness, AFA accomdations, etc.). Just submit your assignment after the deadline (but before 24 hours after the deadline) to automatically use the extension. There is no penalty for using the 24-hour extension. 
 
+You can use the extension for each programming assignment, but we encoruage you to finish
+the assignments before the due date. Learning to complete work before the due date is an 
+essential skill needed in any industry. Start early. Spend at least an hour a day working
+on each assignment instead of waiting until the last minute to start.
+
 It's the student's responsibilty to check that the autograder worked and that all files
 have been properly uploaded (by checking the Code tab). We only accept PAs through
 Gradescope before the slip-day deadline. We will not accept any files through email, Canvas, or
