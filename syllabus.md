@@ -65,8 +65,8 @@ You can find the recordings in the Canvas Media Gallery or at [podcast.ucsd.edu]
 
 Since these lectures may be mostly student discussion, the recordings are mostly 
 an archive of any live demos that come up rather than a presentation of core content.
-It can be helpful to watch the first few minutes of each lecture to see any
-annoucements. Not all annoucements are made on Piazza.
+If you miss lecture, or miss the start of lecture, you should watch the first few minutes 
+of each lecture to see any annoucements. Not all annoucements are made on Piazza.
 
 <h3>Discussion</h3>
 
