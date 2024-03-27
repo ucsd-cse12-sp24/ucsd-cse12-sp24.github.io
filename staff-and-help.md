@@ -11,9 +11,7 @@ learning, and a few different ways to get in touch and ask for help.
 Quick links:
 
 - [Course FAQs (includes waitlist FAQs)](#faq)
-- Piazza Message Board: [https://piazza.com/ucsd/spring2024/cse12_sp24_b00/home
-](https://piazza.com/ucsd/spring2024/cse12_sp24_b00/home
-){:target="_blank"}
+- Piazza Message Board: [https://piazza.com/ucsd/spring2024/cse12_sp24_b00/home](https://piazza.com/ucsd/spring2024/cse12_sp24_b00/home){:target="_blank"}
 - Lab queue (autograder) for in person help: [https://autograder.ucsd.edu](https://autograder.ucsd.edu){:target="_blank"}
 - Tutoring Procedurs: [https://docs.google.com/document/d/1mnOIYC6XQ6J0OWPsuMIWT5I6KG6Zy_I6n_0oqxIA9rs/edit?usp=sharing](https://docs.google.com/document/d/1mnOIYC6XQ6J0OWPsuMIWT5I6KG6Zy_I6n_0oqxIA9rs/edit?usp=sharing){:target="_blank"}
 - Map link for CSE building lab entrance: [https://goo.gl/maps/Zps77SRmNapKfkbC9](https://goo.gl/maps/Zps77SRmNapKfkbC9){:target="_blank"}
