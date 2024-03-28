@@ -53,7 +53,7 @@ Videos (to watch **after** lecture):
 
 ## Handout
 
-<iframe src="https://drive.google.com/file/d/1Q6ebPG9v4_1m400tcbMVlS2pWmCW1zlL/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/10uJRRAB4TiXfR5iq0uKno1skPcNkUWfg/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ## Notes & Files from Lecture 
 
