@@ -82,7 +82,7 @@ You can find the recordings in the Canvas Media Gallery or at [podcast.ucsd.edu]
 Starting with the second lecture, we will take attendance during lecture (except exams) and for each discussion session.
 
 Attendance for lectures and discussions is not required, but attendance at each lecture/discussion earns
-0.4% extra credit, up to a maximum of 10% (25 total lectures and/or discussions). Please note that there are 25 lectures and 10 discussions, for 35 oppotortunities to earn extra credit. 
+0.4% extra credit, up to a maximum of 10% (25 total lectures and/or discussions). Please note that there are 25 lectures and 10 discussions, for 35 opportunities to earn extra credit. 
 
 In each lecture/discussion, we’ll have a paper handout (also available electronically). 
 At the end of lecture/discussion you’ll have a chance submit your handout to Gradescope. 
