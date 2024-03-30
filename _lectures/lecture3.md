@@ -12,7 +12,7 @@ videos:
 
 _{{ page.released-on }}_
 
-No Stepik readings for Wednesday.
+No Stepik readings.
 
 The university requires us to determine which students commence academic activity. Failure to certify academic activity, may result in students being billed for unearned financial aid.
 
