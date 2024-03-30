@@ -52,8 +52,7 @@ Most course content will be presented asynchronously through videos and readings
 with associated interactive activities which should be completed before lecture. 
 
 Lectures will involve problem solving with your classmates along with an opportunity
-to ask quesitons about the material. Participation is not required at problem-solving sections, 
-but it is highly encouraged.
+to ask quesitons about the material. 
 
 It is very important that students watch all pre-lecture videos as this is the 
 primary way to learn the CSE 12 material. 
