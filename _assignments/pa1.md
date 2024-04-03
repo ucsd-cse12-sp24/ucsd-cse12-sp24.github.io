@@ -2,7 +2,7 @@
 layout: with-sidebar
 index: 2
 name: PA1
-released-on: "2023-10-02"
+released-on: "2024-04-03"
 ---
 
 # CSE 12 Programming Assignment 1
@@ -14,7 +14,7 @@ released-on: "2023-10-02"
 This assignment will teach you to use JUnit to test implementations of an
 interface, and review a number of Java concepts.
 
-This PA is due on ** **Wednesday, October 11 at 8:00am** **
+This PA is due on **Wednesday, April 10 at 8:00am**
 
 ## Baskets and Interns
 
@@ -101,7 +101,7 @@ they differ.
 
 ## Getting the Code
 
-The starter code available on Github at [https://github.com/ucsd-cse12-f23/cse12-pa1-Testing](https://github.com/ucsd-cse12-f23/cse12-pa1-Testing){:target="_blank"}. If you are not familiar with Github, here are two easy ways to get your code.
+The starter code available on Github at [https://github.com/ucsd-cse12-sp24/cse12-pa1-Testing](https://github.com/ucsd-cse12-sp24/cse12-pa1-Testing){:target="_blank"}. If you are not familiar with Github, here are two easy ways to get your code.
 
 1. Download as a ZIP folder 
 
@@ -177,14 +177,27 @@ cover the space of issues, but they help.
 
 ## Running and Reading JUnit Results
 
-To run the tests, you can click the green arrow button in Eclipse with
-`BasketTest.java` open. The left-hand pane will show a tree view of
-which tests succeeded and failed on each Basket implementation. You can click
-on the dropdown arrow next to each Basket name to see which specific tests
-suceeded and failed, and click on the individual tests to see them in the
-source window and see a description of the failures.
+Running tests can be done in 3 ways:
 
-(Optional) You can also run the tests from the command line. We have provided a short
+1. To run each individual test: You can click the green play button next to each test you write in BasketTest.java (to run all Basket implementations for that specific test). The terminal output will show which baskets failed for that particular test, and which passed.
+   
+   <img width="578" alt="run-individual-test" src="images/run-individual-test.png">
+
+3. Run individual/all tests through the Testing Panel in VSCode. On the left hand side, go to the testing panel, where you can see all the tests you wrote in the explorer. You then have multiple options:
+   * **Run all tests for all baskets:** Click on the Play buttton on top of the explorer
+     
+     <img width="578" alt="all-tests-all-baskets" src="images/run-all-tests.png">
+
+   * **Run one test for all baskets:** Click on the play button next to the test you want to run
+     
+     <img width="578" alt="one-test-all-baskets" src="images/one-test-all-baskets.png">
+
+   * **Run one test for one basket:** Click on the play button next to the basket and test you want to run
+     
+     <img width="578" alt="one-test-one-basket" src="images/one-test-one-basket.png">
+
+
+4. (Optional) You can also run the tests from the command line. We have provided a short
 script, `run-tests.sh`, that you can use to compile and run your program. From
 the base directory of the code, just run
 
@@ -245,8 +258,7 @@ Here are some suggestions for style:
   choosing one of tabs vs. spaces and sticking with it (you don't have to worry
   about changing any support code to match your style)
 
-  Eclipse has some great auto-formatting options. Consider using the
-  “Source...” “Format” option to automatically format your code. If you use a
+  VSCode has some great auto-formatting options. Consider right clicking, and choosing "Format Document" option to automatically format your code. If you use a
   different editor, I recommend searching for ways to automate this process for
   yourself on the Web.
 
