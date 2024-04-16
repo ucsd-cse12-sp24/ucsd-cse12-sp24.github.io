@@ -14,7 +14,7 @@ Exam 1 is is on Wednesday, April 24 during our 10am lecture in our normal lectur
 
 We will be having assigned seating. If you need a left handed seat or other non-AFA accommodation, please fill out the following form (only if you need it). Sometimes we need to put right-handed students in left-handed seats so also let us know if you cannot use a left-handed seat.
 
-- [Exam Seating](https://forms.gle/AVhJjA2Kvan2WhMU6)
+- [Exam Seating](https://forms.gle/AVhJjA2Kvan2WhMU6){:target="_blank"}
 
 Please fill out by Monday, April 22 as we will be generating the seating chart on Tuesday.
 
@@ -40,8 +40,8 @@ Exam topics:
 ## Practice Files
 
 To help you practice, here are some former exams. Our exam will not be exactly like this exam (since we released it publicly we can't ever use it again).
-- [Exam1 - Fall 2022](https://drive.google.com/file/d/1Xk34zjPHhflgPOJwgcpDck5sOa8wwVV0/view?usp=sharing)
-- [Exam1 - Fall 2023](https://drive.google.com/file/d/1oH6CjRHcYykYzeJjCOPUEMProsmdJJnK/view?usp=sharing)
+- [Exam1 - Fall 2022](https://drive.google.com/file/d/1Xk34zjPHhflgPOJwgcpDck5sOa8wwVV0/view?usp=sharing){:target="_blank"}
+- [Exam1 - Fall 2023](https://drive.google.com/file/d/1oH6CjRHcYykYzeJjCOPUEMProsmdJJnK/view?usp=sharing){:target="_blank"}
 
 ## Exam files
 
