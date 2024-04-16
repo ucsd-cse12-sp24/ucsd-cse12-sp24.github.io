@@ -41,7 +41,7 @@ To help you practice, here are some former exams. Our exam will not be exactly l
 - [Exam1 - Fall 2022](https://drive.google.com/file/d/1Xk34zjPHhflgPOJwgcpDck5sOa8wwVV0/view?usp=sharing){:target="_blank"}
 - [Exam1 - Fall 2023](https://drive.google.com/file/d/1oH6CjRHcYykYzeJjCOPUEMProsmdJJnK/view?usp=sharing){:target="_blank"}
 
-We do not have an answer key, we suggest working with other students in the course or go to non-busy tutoring times. You can also bring your questions to discussion.
+We do not have an answer key for the past exams. We suggest working with other students in the course or go to non-busy tutoring times. You can also bring your questions to discussion.
 
 ## Exam files
 
