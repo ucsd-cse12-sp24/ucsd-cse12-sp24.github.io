@@ -13,6 +13,7 @@ _{{ page.released-on }}_
 Exam 1 is is on Wednesday, April 24 during our 10am lecture in our normal lecture room.
 
 We will be having assigned seating. If you need a left handed seat or other non-AFA accommodation, please fill out the following form (only if you need it). Sometimes we need to put right-handed students in left-handed seats so also let us know if you cannot use a left-handed seat.
+
 - [Exam Seating](https://forms.gle/AVhJjA2Kvan2WhMU6)
 
 Please fill out by Monday, April 22 as we will be generating the seating chart on Tuesday.
