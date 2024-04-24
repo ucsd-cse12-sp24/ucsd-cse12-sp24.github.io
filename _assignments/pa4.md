@@ -375,7 +375,9 @@ You may submit as many times as you like till the deadline.
 If you want a guide on how to get from the CSV data to a graph, look here:
 
 
-https://docs.google.com/document/d/1efFyv4QmggBMxrphb5gF40i5_wBUfIeUMw9-Abrs0fY/edit?usp=sharing
+[https://docs.google.com/document/d/1efFyv4QmggBMxrphb5gF40i5_wBUfIeUMw9-Abrs0fY/edit?usp=sharing](https://docs.google.com/document/d/1efFyv4QmggBMxrphb5gF40i5_wBUfIeUMw9-Abrs0fY/edit?usp=sharing
+
+)
 
 #### Part 2
 The `Programming Assignment 4 - code` assignment in Gradescope is where you will submit your final code for performing measurements.
