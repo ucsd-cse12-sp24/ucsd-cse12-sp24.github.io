@@ -46,4 +46,6 @@ We do not have an answer key for past exams. We suggest working with other stude
 
 ## Exam files
 
-Posted after exam grades have been released
+- [Exam 1 - Check](https://github.com/ucsd-cse12-sp24/ucsd-cse12-sp24.github.io/blob/main/_lectures/exam1/Exam1-Check.pdf){:target="_blank"}
+- [Exam 1 - Star](https://github.com/ucsd-cse12-sp24/ucsd-cse12-sp24.github.io/blob/main/_lectures/exam1/Exam1-Star.pdf){:target="_blank"}
+- [Exam 1 - Smile/TTC](https://github.com/ucsd-cse12-sp24/ucsd-cse12-sp24.github.io/blob/main/_lectures/exam1/Exam1-Smile%20and%20TTC.pdf){:target="_blank"}
