@@ -20,7 +20,7 @@ For CSE 12, we are not allowing cheat/note sheets. Make sure to bring pen/pencil
 
 ## Topics
 
-All lectures up to and including Friday, may 19th. Does not include Binary Search Trees. Also includes PA4, PA5, and PA6.
+All lectures up to and including Friday, May 10th. Does not include Binary Search Trees. Also includes PA4, PA5, and PA6.
 
 Exam topics:
 - Counting Steps 
