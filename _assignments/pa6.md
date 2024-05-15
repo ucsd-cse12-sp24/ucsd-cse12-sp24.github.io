@@ -2,7 +2,7 @@
 layout: with-sidebar
 index: 8
 name: PA6
-released-on: "2023-05-08"
+released-on: "2024-05-08"
 ---
 
 # CSE 12 Programming Assignment 6
