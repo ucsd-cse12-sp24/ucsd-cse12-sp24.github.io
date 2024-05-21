@@ -50,4 +50,7 @@ We do not have an answer key for past exams. We suggest working with other stude
 
 ## Exam files
 
-Exam files will be posted after exam grading has been completed...
+- [Exam 2 - Check](https://github.com/ucsd-cse12-sp24/ucsd-cse12-sp24.github.io/blob/main/_lectures/exam2/Exam%202%20Check.pdf){:target="_blank"}
+- [Exam 2 - Star](https://github.com/ucsd-cse12-sp24/ucsd-cse12-sp24.github.io/blob/main/_lectures/exam2/Exam%202%20Star.pdf){:target="_blank"}
+- [Exam 2 - Smile](https://github.com/ucsd-cse12-sp24/ucsd-cse12-sp24.github.io/blob/main/_lectures/exam2/Exam%202%20Smile.pdf){:target="_blank"}
+- [Exam 2 - TTC](https://github.com/ucsd-cse12-sp24/ucsd-cse12-sp24.github.io/blob/main/_lectures/exam2/Exam%202%20Star%20-%20TTC%20-%20corrected.pdf){:target="_blank"}
