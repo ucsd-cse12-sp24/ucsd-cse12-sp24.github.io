@@ -24,7 +24,7 @@ All lectures and also includes all PAs.
 
 ## Practice Files
 
-To help you practice, here are some former exams. Our exam will not be exactly like this exam (since we released it publicly we can't ever use it again).
+To help you practice, here is a former exam. Our exam will not be exactly like this exam (since we released it publicly we can't ever use it again).
 
 - [Final Exam - Fall 2023](https://drive.google.com/file/d/1INRHka5TWLgG4lHyNEdBC3teCXB_o7fs/view?usp=sharing){:target="_blank"}
 
