@@ -26,7 +26,6 @@ All lectures and also includes all PAs.
 
 To help you practice, here are some former exams. Our exam will not be exactly like this exam (since we released it publicly we can't ever use it again).
 
-- [Final Exam - Fall 2022](https://drive.google.com/file/d/138x4Mx1-Q4pJar00vS8v1oxugTj8Jj1o/view?usp=sharing){:target="_blank"}
 - [Final Exam - Fall 2023](https://drive.google.com/file/d/1INRHka5TWLgG4lHyNEdBC3teCXB_o7fs/view?usp=sharing){:target="_blank"}
 
 We do not have an answer key for past exams. We suggest working with other students in the course or go to non-busy tutoring times. You can also bring your questions to discussion.
