@@ -10,7 +10,7 @@ videos:
 
 _{{ page.released-on }}_
 
-The Fainl Exam is on Monday, June 10th 8am - 11am. Room will be announced in Week 10.
+The Final Exam is on Monday, June 10th 8am - 11am. Room will be announced in Week 10.
 
 We will be having assigned seating and will post them on Sunday before the exam.
 
