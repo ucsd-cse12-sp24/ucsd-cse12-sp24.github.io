@@ -10,7 +10,7 @@ videos:
 
 _{{ page.released-on }}_
 
-The Final Exam is on Monday, June 10th 8am - 11am. Room will be announced in Week 10.
+The Final Exam is on Monday, June 10th, 8am - 11am. Still waiting for confirmation, but we should be in the same room as lecture (WLH 2001).
 
 We will be having assigned seating and will post them on Sunday before the exam.
 
