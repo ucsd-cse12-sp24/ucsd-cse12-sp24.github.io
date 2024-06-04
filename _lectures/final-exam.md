@@ -32,6 +32,8 @@ To help you practice, here is a former exam. Our exam will not be exactly like t
 
 We do not have an answer key for past exams. We suggest working with other students in the course or go to non-busy tutoring times. You can also bring your questions to discussion.
 
+Each part of the final exam corresponds to one of the previous exams. Those exams can also be used as study guides. 
+
 ## Exam files
 
 Posted after exam grades have been released
