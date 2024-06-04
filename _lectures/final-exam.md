@@ -22,7 +22,7 @@ As stated in the syllabus: No makeup exams will be conducted! No incompletes wil
 
 ## Topics
 
-All lectures and also includes all PAs.
+All lectures and also includes all PAs (except Design Patterns).
 
 ## Practice Files
 
