@@ -18,6 +18,8 @@ For those who have AFA exam accommodation letters, those are all done through th
 
 For CSE 12, we are not allowing cheat/note sheets. Make sure to bring pen/pencil and a picture ID (student ID preferred).
 
+As stated in the syllabus: No makeup exams will be conducted! No incompletes will be given.
+
 ## Topics
 
 All lectures and also includes all PAs.
