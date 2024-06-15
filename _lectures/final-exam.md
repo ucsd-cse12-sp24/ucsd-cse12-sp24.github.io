@@ -36,4 +36,7 @@ Each part of the final exam corresponds to one of the previous exams. Those exam
 
 ## Exam files
 
-Posted after exam grades have been released
+- [Final Exam - Check](https://github.com/ucsd-cse12-sp24/ucsd-cse12-sp24.github.io/blob/main/_lectures/final-exam/CSE12SP24-Final%20Check.pdf){:target="_blank"}
+- [Final Exam - Star](https://github.com/ucsd-cse12-sp24/ucsd-cse12-sp24.github.io/blob/main/_lectures/final-exam/CSE12SP24-Final%20Star.pdf){:target="_blank"}
+- [Final Exam - Smile](https://github.com/ucsd-cse12-sp24/ucsd-cse12-sp24.github.io/blob/main/_lectures/final-exam/CSE12SP24-Final%20Smile.pdf){:target="_blank"}
+- [Final Exam - TTC](https://github.com/ucsd-cse12-sp24/ucsd-cse12-sp24.github.io/blob/main/_lectures/final-exam/CSE12SP24-Final%20Check%20-%20TTC.pdf){:target="_blank"}
